@@ -1,0 +1,3 @@
+Last release is in the folder bin/ 
+
+It is not update when the code change so if you want the very latest, compile the project yourself
