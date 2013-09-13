@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="integer" format="integer" name="vitesse_horizontale">1000</item>
+    <item type="integer" format="float|integer" name="vitesse_verticale">1000</item>
+    <item type="integer" format="integer" name="vitesse_zoom">2</item>
+    
+</resources>

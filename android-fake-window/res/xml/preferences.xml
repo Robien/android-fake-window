@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="pref_vitesse_verticale"
+        android:title="@string/pref_vitesse_verticale"
+        android:summary="@string/pref_vitesse_verticale_summ"
+        android:defaultValue="@integer/vitesse_verticale" />
+        <EditTextPreference
+        android:key="pref_vitesse_horizontale"
+        android:title="@string/pref_vitesse_horizontale"
+        android:summary="@string/pref_vitesse_horizontale_summ"
+        android:defaultValue="@integer/vitesse_horizontale" />
+            <EditTextPreference
+        android:key="pref_vitesse_zoom"
+        android:title="@string/pref_vitesse_zoom"
+        android:summary="@string/pref_vitesse_zoom_summ"
+        android:defaultValue="@integer/vitesse_zoom" />
+</PreferenceScreen>
